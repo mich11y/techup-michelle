@@ -1,0 +1,33 @@
+/* 
+.title {
+    color: plum;
+    background-color: blanchedalmond;
+    text-align: center;
+    border: 5px plum solid;
+    border-style:dotted;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+*/
+
+h1 {
+    color: plum;
+    background-color: blanchedalmond;
+    text-align: center;
+    border: 5px plum solid;
+    border-style:dotted;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h2 {color: rgba(185, 41, 65, 0.444)}
+
+#important {   
+    color: purple;
+    background-color: whitesmoke;
+    text-align: center;
+    border: 5px purple;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
